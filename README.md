@@ -9,4 +9,7 @@
 
 ### - TESS: Ricker et al. 2015 (2015JATIS...1a4003R). This article had too many names to fit onto a single poster. The first 10 were used.
 ### - Kepler: Borucki et al. 2008 (2008IAUS..249...17B). Jorgen Christensen-Dalsgaard appears earlier in the authorlist but I chose to have it on its own due to the length of the name.
-### - Keck/HIRES: Vogt et al. 1994 (1994SPIE.2198..362V). I omitted authors for whom I could not confidently determine their full first name...if you know then please ping me! 
+### - Keck/HIRES: Vogt et al. 1994 (1994SPIE.2198..362V). I omitted authors for whom I could not confidently determine their full first name...if you know them, please open an issue! :) 
+
+
+#### Created using Inkscape 1.1.2 on a machine running Ubuntu 18.04.6.
